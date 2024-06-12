@@ -2,6 +2,24 @@ header {
   display: none;
 }
 
+body.light {
+  background-color: white;
+  color: black;
+}
+
+body.dark {
+  background-color: black;
+  color: white;
+}
+
+nav a {
+  margin: 0 10px;
+}
+
+button {
+  margin-left: 20px;
+}
+
 .exitMenu {
   display: none;
 }
